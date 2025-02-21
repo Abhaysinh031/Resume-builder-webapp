@@ -1,6 +1,53 @@
-# React-Resume-Builder
-This is react resume builder made by Arman Kazi for Hack-R-Play Hackathon organized by ReactPlay and sponsored by NHost. This project is made by using complete React.js with poppular react packages like react-redux, redux-persist, react-hook-form, react-router-dom, react-icons and Nhost services like Postgres Database, GraphQl API and Storage has been used.
-# Link
-https://react--resume--builder.vercel.app/
-# Screenshots
-![screencapture-localhost-3000-2022-10-16-23_56_02](https://user-images.githubusercontent.com/104687128/196051871-03e088db-0066-4cd4-a3e5-db7254d25f09.png)
+# Resume-Builder
+React Resume Builder is a web application that allows users to create professional resumes effortlessly. Users can fill out forms, choose from various templates, and generate a downloadable resume in PDF format.
+
+# Features
+
+- Dynamic form-based resume creation
+
+- Multiple resume templates
+
+- Real-time preview of the resume
+
+- Download resume as a PDF
+
+- User-friendly interface with drag-and-drop sections
+
+- Responsive design for all devices
+
+# Technologies Used
+
+- React.js
+
+- Tailwind CSS
+
+# Installation & Setup
+
+1. Clone the repository:
+
+   ```bash
+      git clone https://github.com/Abh aysinh031/Resume-builder-webapp.git
+      cd Resume-builder-webapp
+   ```
+2. Install dependencies:
+
+  ```bash
+    npm install
+  ```
+3. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+4. Open http://localhost:3000 in your browser.
+
+## Usage
+
+- Enter your details in the form fields.
+
+- Choose a resume template.
+
+- Preview the resume in real-time.
+  
+- Click on "Download PDF" to export your resume.
